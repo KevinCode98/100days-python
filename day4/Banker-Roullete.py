@@ -9,6 +9,4 @@ names = names_string.split(", ")
 import random
 
 winner = random.randint(0, len(names) - 1)
-print(winner)
-
 print(f'{names[winner]} is going to buy the meal today!')
