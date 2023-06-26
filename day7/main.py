@@ -1,5 +1,5 @@
 #Step 5
-import reprlit import clear
+from replit import clear
 import random
 
 #TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
